@@ -1,0 +1,15 @@
+C:\Users\timos\source\repos\DZ1\DZ1\bin\Debug\DZ1.exe.config
+C:\Users\timos\source\repos\DZ1\DZ1\bin\Debug\DZ1.exe
+C:\Users\timos\source\repos\DZ1\DZ1\bin\Debug\DZ1.pdb
+C:\Users\timos\source\repos\DZ1\DZ1\obj\Debug\DZ1.csprojAssemblyReference.cache
+C:\Users\timos\source\repos\DZ1\DZ1\obj\Debug\MainWindow.g.cs
+C:\Users\timos\source\repos\DZ1\DZ1\obj\Debug\App.g.cs
+C:\Users\timos\source\repos\DZ1\DZ1\obj\Debug\DZ1_MarkupCompile.cache
+C:\Users\timos\source\repos\DZ1\DZ1\obj\Debug\DZ1_MarkupCompile.lref
+C:\Users\timos\source\repos\DZ1\DZ1\obj\Debug\MainWindow.baml
+C:\Users\timos\source\repos\DZ1\DZ1\obj\Debug\DZ1.g.resources
+C:\Users\timos\source\repos\DZ1\DZ1\obj\Debug\DZ1.Properties.Resources.resources
+C:\Users\timos\source\repos\DZ1\DZ1\obj\Debug\DZ1.csproj.GenerateResource.cache
+C:\Users\timos\source\repos\DZ1\DZ1\obj\Debug\DZ1.csproj.CoreCompileInputs.cache
+C:\Users\timos\source\repos\DZ1\DZ1\obj\Debug\DZ1.exe
+C:\Users\timos\source\repos\DZ1\DZ1\obj\Debug\DZ1.pdb
